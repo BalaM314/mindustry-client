@@ -1,4 +1,4 @@
-This is SByte's v7 fork of buthed010203's fork of mindustry v6.  It will have various quality of life and automation features when complete.
+This used to be BalaM314's fork of SByte's v7 fork of buthed010203's fork of mindustry v6. It was superseded by Flarogus client, jointly developed by SByte and BalaM314, which was then merged into main Foo's client. This repository is obsolete.
 ![Logo](core/assets-raw/sprites/ui/foo.png)
 
 
